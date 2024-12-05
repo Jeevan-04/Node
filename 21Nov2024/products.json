@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Bhagavad Gita",
+        "price": 10.99,
+        "category": "Philosophy",
+        "publication": "Bhaktivedanta Book Trust"
+    },
+    {
+        "id": 2,
+        "name": "Ramayana",
+        "price": 15.5,
+        "category": "Epic",
+        "publication": "Ramakrishna Mission"
+    },
+    {
+        "id": 3,
+        "name": "Vedas - Rigveda",
+        "price": 20,
+        "category": "Scripture",
+        "publication": "Gita Press"
+    },
+    {
+        "id": 4,
+        "name": "Upanishads",
+        "price": 18.75,
+        "category": "Philosophy",
+        "publication": "Sankara Advaita"
+    },
+    {
+        "id": 5,
+        "name": "Mahabharata",
+        "price": 22.3,
+        "category": "Epic",
+        "publication": "Sri Aurobindo Ashram"
+    },
+    {
+        "id": 6,
+        "name": "Puranas - Vishnu Purana",
+        "price": 25.5,
+        "category": "Mythology",
+        "publication": "Chinmaya Mission"
+    },
+    {
+        "id": 7,
+        "name": "Srimad Bhagavatam",
+        "price": 12.99,
+        "category": "Devotion",
+        "publication": "ISKCON Press"
+    },
+    {
+        "id": 8,
+        "name": "Yoga Sutras of Patanjali",
+        "price": 8.75,
+        "category": "Philosophy",
+        "publication": "Kailash Publishing"
+    },
+    {
+        "id": 9,
+        "name": "Aranyakas",
+        "price": 30,
+        "category": "Scripture",
+        "publication": "Vedanta Press"
+    },
+    {
+        "id": 10,
+        "name": "Brahma Sutra",
+        "price": 19.5,
+        "category": "Philosophy",
+        "publication": "Advaita Vedanta"
+    }
+]
